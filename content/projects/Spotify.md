@@ -1,6 +1,6 @@
 ---
 date: '2022-02-01'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Integrating Spotify API'
 github: 'https://github.com/matthewricklefs/spotify-1'
 external: 'https://spotify-1-seven.vercel.app/'
 tech:
