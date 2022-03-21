@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Vue', 'React', 'Node.js', 'Express', 'MongoDB'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Vue', 'Node.js', 'Express', 'MongoDB'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,25 +136,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Matthew and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2007 when I began customizing the HTML
-              elements on my very first Myspace page — turns out hacking together a personal blog
-              taught me a lot about HTML &amp; CSS!
+              Hello! My name is Matthew and I enjoy creating things. My interest in web development
+              started back in 2018 when I moved to NYC &amp; begin dabbling in startup culture —
+              meeting remarkable individuals that encouraged me to reorient my career trajectory and
+              deepen my conceptual understanding of modern technologies!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.cyberconcepts.nyc/">a technology consultancy</a>, and{' '}
-              <a href="https://www.humana.com/">a huge healthcare distribution network.</a>{' '}
+              <a href="https://www.cyberconcepts.nyc/">a NYC-based consultancy</a>, and{' '}
+              <a href="https://www.humana.com/">an enterprise-grade healthcare network.</a>{' '}
             </p>
 
             <p>
               I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                finished an immersive coding bootcamp program
-              </a>{' '}
-              that covers everything you need to build a web app with the modern technologies,
-              specifically using Node &amp; React.
+              <a href="https://bottega.edu/">finished an immersive coding bootcamp program</a>
+              that focuses on the use of front-end frameworks, programming website backend content
+              management, managing deployment and installation on servers, and running SQL queries
+              on databases.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -169,7 +168,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
