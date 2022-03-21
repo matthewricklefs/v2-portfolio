@@ -3,11 +3,11 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'Github',
+      name: 'GitHub',
       url: 'https://github.com/matthewricklefs',
     },
     {
-      name: 'LinkedIn',
+      name: 'Linkedin',
       url: 'https://www.linkedin.com/in/matthew-ricklefs-13284a1b9/',
     },
   ],

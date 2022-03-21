@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Invoice Tracker'
-cover: './in.jpeg'
+cover: './in.png'
 github: 'https://github.com/matthewricklefs/vue-invoice'
 external: 'https://pensive-jackson-2a7810.netlify.app/'
 tech:

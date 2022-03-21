@@ -6,13 +6,12 @@ module.exports = {
     description:
       'Matthew Ricklefs is a software engineer who specializes in building, contributing toward, and maintaining exceptional digital experiences.',
     siteUrl: 'https://www.yourdomain.tld',
-    image: 'src/images/me.jpg',
+    image: '/static/me.jpg',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
     'gatsby-plugin-image',
-    'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
