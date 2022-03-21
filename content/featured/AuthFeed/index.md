@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'Authenticated Feed with Storyblock'
+date: '4'
+title: 'Storyblock Feed'
 cover: './twitter1.png'
 github: 'https://github.com/matthewricklefs/next-sanity-shop/'
 external: 'https://my-storybook-posts.netlify.app/'

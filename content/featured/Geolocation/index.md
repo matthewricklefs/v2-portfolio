@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'Geolocation Services with Leaflet'
+date: '3'
+title: 'Geolocation with Leaflet'
 cover: './geo.png'
 github: 'https://github.com/matthewricklefs/mapbox-client-vue-3'
 external: 'https://shrouded-brushlands-38087.herokuapp.com/'
