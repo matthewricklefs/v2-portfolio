@@ -1,10 +1,10 @@
 ---
 date: '2022-01-14'
-title: 'UI Engineer Apprentice'
-company: 'CyberConcepts NYC'
+title: 'Software Engineer'
+company: 'Humana'
 location: 'New York, NY'
 range: 'January - April 2022'
-url: 'https://www.cyberconcepts.nyc'
+url: 'https://www.humana.com/'
 ---
 
 - Developed and integrated bidirectional data ingest for siloed Subsidiary using internal CDF technologies (IE- Kafka, Confluent, Azure, MongoDB, SQL)

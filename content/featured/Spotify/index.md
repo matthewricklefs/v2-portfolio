@@ -1,16 +1,14 @@
 ---
 date: '2'
-title: 'E-Commerce with PayPal Checkout'
-# cover: './demo.png'
-github: 'https://github.com/matthewricklefs/next-sanity-shop/'
-external: 'https://next-sanity-shop.vercel.app/'
+title: 'Spotify with OAuth Login'
+cover: './spotify.png'
+github: 'https://github.com/matthewricklefs/spotify-1'
+external: 'https://spotify-1-seven.vercel.app/'
 tech:
-  - Next.js
-  - EmotionJS
-  - Material UI
-  - Sanity IO
-  - bcryptjs
-  - PayPal APIs
+  - React
+  - Recoil
+  - Next-Auth
+  - TaildwindCSS
 ---
 
-This demonstration was generated with Next.JS, Sanity.io, utilizing a PayPal API to generate mock payments that can be processed with a personal checking account.
+This application allows the user to login to their spotify via OAuth redirect. The credentials are synced and the user is logged in to their spotify account!

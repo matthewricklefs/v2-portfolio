@@ -1,16 +1,14 @@
 ---
 date: '2'
-title: 'E-Commerce with PayPal Checkout'
-cover: './demo.png'
-github: 'https://github.com/matthewricklefs/next-sanity-shop/'
-external: 'https://next-sanity-shop.vercel.app/'
+title: 'Invoice Tracker'
+cover: './in.jpeg'
+github: 'https://github.com/matthewricklefs/vue-invoice'
+external: 'https://pensive-jackson-2a7810.netlify.app/'
 tech:
-  - Next.js
-  - EmotionJS
-  - Material UI
-  - Sanity IO
-  - bcryptjs
-  - PayPal APIs
+  - Vue
+  - Vuex
+  - Firebase
+  - SCSS
 ---
 
-This demonstration was generated with Next.JS, Sanity.io, utilizing a PayPal API to generate mock payments that can be processed with a personal checking account.
+The user has the ability to create, edit, and remove invoices. An invoice can be toggled between pending and paid statuses, as well as optionally being saved as a draft before publishing into the document collection!

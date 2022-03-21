@@ -1,16 +1,15 @@
 ---
 date: '2'
-title: 'E-Commerce with PayPal Checkout'
-cover: './demo.png'
+title: 'Authenticated Feed with Storyblock'
+cover: './twitter1.png'
 github: 'https://github.com/matthewricklefs/next-sanity-shop/'
-external: 'https://next-sanity-shop.vercel.app/'
+external: 'https://my-storybook-posts.netlify.app/'
 tech:
   - Next.js
-  - EmotionJS
-  - Material UI
-  - Sanity IO
-  - bcryptjs
-  - PayPal APIs
+  - Storyblock
+  - Airtable
+  - Netlify
+  - SCSS
 ---
 
-This demonstration was generated with Next.JS, Sanity.io, utilizing a PayPal API to generate mock payments that can be processed with a personal checking account.
+The user is able to contribute posted content that is marked via date-time into a rather simple interface. The icing on the cake is the JWT token refreshing that is taking place behind the scene!

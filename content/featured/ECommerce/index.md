@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '1'
 title: 'E-Commerce with PayPal Checkout'
-cover: './demo.png'
+cover: './svg-pay.png'
 github: 'https://github.com/matthewricklefs/next-sanity-shop/'
 external: 'https://next-sanity-shop.vercel.app/'
 tech:

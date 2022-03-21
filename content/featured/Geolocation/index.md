@@ -1,16 +1,15 @@
 ---
 date: '2'
-title: 'E-Commerce with PayPal Checkout'
-cover: './demo.png'
-github: 'https://github.com/matthewricklefs/next-sanity-shop/'
-external: 'https://next-sanity-shop.vercel.app/'
+title: 'Geolocation Services with Leaflet'
+cover: './geo.png'
+github: 'https://github.com/matthewricklefs/mapbox-client-vue-3'
+external: 'https://shrouded-brushlands-38087.herokuapp.com/'
 tech:
-  - Next.js
-  - EmotionJS
-  - Material UI
-  - Sanity IO
-  - bcryptjs
-  - PayPal APIs
+  - Vue
+  - Mapbox
+  - Leaflet
+  - Axios
+  - TailwindCSS
 ---
 
-This demonstration was generated with Next.JS, Sanity.io, utilizing a PayPal API to generate mock payments that can be processed with a personal checking account.
+The user has the ability to activate location services and pinpoint their location on the map. The user has the ability to query for specific locations with fuzzy autocomplete capabilities. The user can select an address and inquire the distance between themselves and the targeted location.

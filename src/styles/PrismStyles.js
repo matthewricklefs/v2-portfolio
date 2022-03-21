@@ -52,6 +52,7 @@ const PrismStyles = css`
   * 2. Always fill the visible space in .gatsby-highlight.
   * 3. Adjust the position of the line numbers
   */
+
   .gatsby-highlight pre[class*='language-'] {
     background-color: transparent;
     margin: 0;
