@@ -64,9 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software developer specializing in building exceptional digital experiences.
-        Currently, I’m focused on building engaging products that are fluid, scalable, and user
-        friendly.
+        I build exceptional, web experiences. I focus on designing web applications that are
+        intuitive, friendly and fluid.
       </p>
     </>
   );
