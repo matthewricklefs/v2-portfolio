@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Invoice Tracker'
 cover: './in.png'
 github: 'https://github.com/matthewricklefs/vue-invoice'

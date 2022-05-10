@@ -1,15 +1,14 @@
 ---
-date: '4'
-title: 'Storyblock Feed'
+date: '2'
+title: 'Twitter Reproduction!'
 cover: './twitter1.png'
-github: 'https://github.com/matthewricklefs/next-sanity-shop/'
-external: 'https://my-storybook-posts.netlify.app/'
+github: 'https://github.com/matthewricklefs/twitter-sanity'
+external: 'https://twitter-sanity.vercel.app/'
 tech:
   - Next.js
-  - Storyblock
-  - Airtable
-  - Netlify
-  - SCSS
+  - RESTful API
+  - Sanity IO
+  - TailwindCSS
 ---
 
-The user is able to contribute posted content that is marked via date-time into a rather simple interface. The icing on the cake is the JWT token refreshing that is taking place behind the scene!
+The user is able to post tweets and comments by linking their Twitter Profile! The RESTful API is created with the Fetch library and Sanity mutations. The database schema through Sanity.io. The authentication with NextAuth. The UX with TailwindCSS.
